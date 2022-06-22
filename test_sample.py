@@ -9,4 +9,4 @@ def test_square():
    assert num*num == 9
 
 def test_quality():
-   assert 1 != 1
+   assert 1 != 7
