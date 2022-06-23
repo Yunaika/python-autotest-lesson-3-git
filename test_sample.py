@@ -10,3 +10,8 @@ def test_square():
 
 def test_quality():
    assert 1 != 7
+   
+def test_sum():
+   num_1 = 2
+   num_2 = 3
+   assert 1num_1 + num_2 == 5
